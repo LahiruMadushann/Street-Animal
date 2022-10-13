@@ -1,0 +1,50 @@
+
+
+.card:hover{
+    /* width: 450px !important; */
+  box-shadow: 0 4px 8px 0 #8bc53f, 0 6px 20px 0 #8bc53f !important;
+  text-align: center !important;
+}
+td {
+  text-align: center;
+  color: #919aa3;
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.2vw;
+  line-height: 49px;
+  letter-spacing: -0.03em;
+}
+.buttonText{
+ 
+  font-family: 'Nunito' !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 1.1vw !important;
+  letter-spacing: -0.03em !important;
+}
+
+.pic {
+   
+    margin-left: auto;
+  margin-right: auto;
+    width:20%;
+    padding-left:17% !important;
+    padding-top:5%;
+  }
+
+  .cardImage{
+    flex-basis: 95%;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    
+    flex-direction: column;
+    padding: 8%;
+    padding-bottom: 20px;
+    background-color: white;
+  }
+  table:hover{
+    /* width: 450px !important; */
+  box-shadow: 0 4px 8px 0 #8bc53f, 0 6px 20px 0 #8bc53f !important;
+  text-align: center !important;
+}
